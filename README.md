@@ -13,6 +13,10 @@
 
 <h2>Bio</h2>
 
+<div align="center">
+    <img src="assets/bongo.gif" alt="divider" width="100px">
+</div>
+
 Hello! My name is Simon, and I am a final year computer science student at Tuks. 
 
 <img src="https://dummyimage.com/2500x32/71816D/71816D.png" alt="divider" width="100%">
