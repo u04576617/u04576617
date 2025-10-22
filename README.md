@@ -46,9 +46,12 @@ Hello! My name is Simon, and I am a final year computer science student at Tuks.
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=u04576617&theme=gruvbox&show_icons=true" width="300" />  
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=u04576617&theme=gruvbox" width="300" />  
 
 </div>
+
+<br>
 
 <img src="https://dummyimage.com/2500x32/71816D/71816D.png" alt="divider" width="100%">
 
@@ -60,5 +63,3 @@ Hello! My name is Simon, and I am a final year computer science student at Tuks.
   </a>
 
 </div>
-
-<img src="https://dummyimage.com/2500x32/71816D/71816D.png" alt="divider" width="100%">
